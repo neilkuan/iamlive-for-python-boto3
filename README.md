@@ -27,3 +27,5 @@ $ pip install -r requirements.txt
 
 $ python app.py
 ```
+
+https://user-images.githubusercontent.com/46012524/119766220-31f82180-bee7-11eb-8886-9c6ea4bdfa39.mov
