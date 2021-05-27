@@ -3,7 +3,7 @@
 
 ### To Clone
 ```bash
-$ git clone https://github.com/iann0036/iamlive.git
+$ git clone https://github.com/neilkuan/iamlive-for-python-boto3.git
 ```
 
 ### To Install
